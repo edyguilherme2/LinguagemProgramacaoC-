@@ -1,0 +1,16 @@
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\bin\Debug\exercicio5.exe.config
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\bin\Debug\exercicio5.exe
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\bin\Debug\exercicio5.pdb
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.AssemblyReference.cache
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.SuggestedBindingRedirects.cache
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\obj\Debug\exercicio5.exe
+C:\Users\cj3002411\source\repos\exercicio5\exercicio5\obj\Debug\exercicio5.pdb
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\bin\Debug\exercicio5.exe.config
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\bin\Debug\exercicio5.exe
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\bin\Debug\exercicio5.pdb
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.AssemblyReference.cache
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.SuggestedBindingRedirects.cache
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\obj\Debug\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\obj\Debug\exercicio5.exe
+C:\Users\cj3002411\Projetos\exercicio5\exercicio5\obj\Debug\exercicio5.pdb
